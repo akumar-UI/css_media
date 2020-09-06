@@ -16,9 +16,9 @@ h1 {
   color: white;
 }
 
-/* mobile: 500px, ipad: 500-768, com: 769 */
+/* mobile: 480px, ipad: 500-768, com: 769 */
 
-@media (max-width: 500px) {
+@media (max-width: 480px) {
   body {
     background-color: rgb(67, 67, 67);
   }
